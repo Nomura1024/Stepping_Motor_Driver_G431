@@ -1,0 +1,11 @@
+../Core/Src/initial.c:26:6:Motor	16	static
+../Core/Src/initial.c:30:6:setServoAngle	32	static
+../Core/Src/initial.c:43:6:set_Stepping_Motor	32	static
+../Core/Src/initial.c:84:6:UART_Receive	8	static
+../Core/Src/initial.c:102:6:data_analysis	64	static
+../Core/Src/initial.c:122:5:limit_switche_1	8	static
+../Core/Src/initial.c:125:5:limit_switche_2	8	static
+../Core/Src/initial.c:128:6:push_marshmallow	16	static
+../Core/Src/initial.c:132:6:init	8	static
+../Core/Src/initial.c:146:6:buzzer	16	static
+../Core/Src/initial.c:150:6:step_Initialization	8	static

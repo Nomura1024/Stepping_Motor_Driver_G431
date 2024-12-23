@@ -1,0 +1,11 @@
+initial.c:26:6:Motor	1
+initial.c:30:6:setServoAngle	7
+initial.c:43:6:set_Stepping_Motor	6
+initial.c:84:6:UART_Receive	2
+initial.c:102:6:data_analysis	2
+initial.c:122:5:limit_switche_1	1
+initial.c:125:5:limit_switche_2	1
+initial.c:128:6:push_marshmallow	2
+initial.c:132:6:init	3
+initial.c:146:6:buzzer	2
+initial.c:150:6:step_Initialization	2
